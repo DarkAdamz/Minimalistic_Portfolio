@@ -1,5 +1,6 @@
 import React from "react";
 import {BentoGrid, BentoGridItem} from "./ui/bento-grid";
+import {TextRevealCard} from "./ui/text-revealing-Card";
 import {gridItems} from "@/data";
 
 const Grid = () => {
@@ -20,6 +21,11 @@ const Grid = () => {
                     />
                 ))}
             </BentoGrid>
+            <TextRevealCard
+                className="m-auto bg w-full"
+                text="What I have to offer..."
+                revealText="I  specializing in React, Tailwind, and Next.js. I create sleek, responsive web applications with a focus on performance and user experience."
+            />
         </section>
     );
 };
