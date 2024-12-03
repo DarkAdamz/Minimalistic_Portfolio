@@ -119,14 +119,14 @@ export const colab = [
 
 export const testimonials = [
     {
-        quote: "Uche is a very dedicated person, who is always willing to learn and improve. It is because of his passion an zeal that he has come this far and the fact thaat he is persistent, what makes him valuable is the fact that how is a problem-solver.",
-        name: "Opeyemi Bioku",
-        title: "Lead Dev Lead Trulance.",
-    },
-    {
         quote: "An absolute pleasure to work with! Uche delivered a responsive and visually stunning web application that exceeded our expectations. Highly recommended!",
         name: "Opeyemi Akande",
         title: "Senior Developer at TrikLab",
+    },
+    {
+        quote: "Uche is a very dedicated person, who is always willing to learn and improve. It is because of his passion an zeal that he has come this far and the fact thaat he is persistent, what makes him valuable is the fact that how is a problem-solver.",
+        name: "Opeyemi Bioku",
+        title: "Lead Dev Lead Trulance.",
     },
     {
         quote: "Uche brought our ideas to life with exceptional attention to detail and outstanding technical expertise. The project was completed on time and on budget!",
