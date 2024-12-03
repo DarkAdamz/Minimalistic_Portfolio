@@ -8,7 +8,7 @@ const Footer = () => {
     return (
         <footer id="contact" className="w-full pt-20 pb-10">
             <div className="w-full absolute left-0 -bottom-72 min-h-72">
-                <Image src="/footer-grid.svg" alt="grid" className="w-full h-full opacity-80" />
+                <img src="/footer-grid.svg" alt="grid" className="w-full h-full opacity-80" />
             </div>
             <div className="flex flex-col items-center">
                 <h1 className="heading lG:max-w-[45vw]">
