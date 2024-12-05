@@ -23,7 +23,7 @@ const Grid = () => {
             </BentoGrid>
             <TextRevealCard
                 className="m-auto bg w-full"
-                text="What I have to offer..."
+                text="Swipe this box to see what I have to offer..."
                 revealText="I  specializing in React, Tailwind, and Next.js. I create sleek, responsive web applications with a focus on performance and user experience."
             />
         </section>

@@ -83,7 +83,7 @@ export const BentoGridItem = ({
                                 <div className="flex gap-1 lg:gap-3 w-fit relative bottom-0 right-0 lg:right-0 md:top-0 mt-5">
                                     {/* tech stack lists */}
                                     <div className="flex flex-col gap-3 md:gap-3 lg:gap-8">
-                                        {["Express", "MongoDB", "PostGresQL", "Solidity"].map((item, i) => (
+                                        {["Express", "MongoDB", "GSAP", "Framer"].map((item, i) => (
                                             <span
                                                 key={i}
                                                 className="lg:py-4 lg:px-3 py-2 px-3 text-xs lg:text-base opacity-50 
@@ -132,7 +132,7 @@ lg:opacity-100 rounded-lg text-center bg-[#10132E]"
                                 </div>
                             )}
                         </div>
-                        <div className="font-sans font-extralight text-[#c1c2d3] text-sm md:text-xs lg:text-base dark:text-neutral-300 z-10">
+                        <div className="font-sans font-light text-[#c1c2d3] text-sm md:text-xs lg:text-base dark:text-neutral-300 z-10">
                             {description}
                         </div>
                     </div>
