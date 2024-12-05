@@ -121,7 +121,7 @@ export const testimonials = [
     {
         quote: "An absolute pleasure to work with! Uche delivered a responsive and visually stunning web application that exceeded our expectations. Highly recommended!",
         name: "Opeyemi Akande",
-        title: "Senior Developer at TrikLab",
+        title: "Senior Developer at Parthain Partners Ltd",
     },
     {
         quote: "Uche is a very dedicated person, who is always willing to learn and improve. It is because of his passion an zeal that he has come this far and the fact thaat he is persistent, what makes him valuable is the fact that how is a problem-solver.",
@@ -130,8 +130,8 @@ export const testimonials = [
     },
     {
         quote: "Uche brought our ideas to life with exceptional attention to detail and outstanding technical expertise. The project was completed on time and on budget!",
-        name: "Muhammed Kazeem",
-        title: "Project Manager at LeadCity",
+        name: "Daniel Okpata",
+        title: "Founder Citiflo | Product Designer",
     },
     {
         quote: "Working with Uche was seamless! The level of professionalism, creativity, and commitment to quality truly stood out. I’m excited to collaborate again in the future",
@@ -140,8 +140,8 @@ export const testimonials = [
     },
     {
         quote: "I was impressed by Uche ability to transform complex requirements into a sleek, user-friendly interface. Communication was clear throughout the process, and the results were fantastic!",
-        name: "",
-        title: "Dev Ops Lead at Matclad ",
+        name: "Shuaib Khalifa",
+        title: "Founder at Trykey ",
     },
 ];
 
